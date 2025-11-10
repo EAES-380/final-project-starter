@@ -14,11 +14,11 @@ Pick a dataset, any dataset...
 ...
 and apply your data science workflow.
 
-Submit a proposal on **Monday 4/15**.
+Submit a proposal on **Friday 11/21**.
 
-Give 5 min presentation (or share pre-recording) on Tuesday, April 30 1030am - 1230pm (Finals week).
+Give 5 min presentation (or share pre-recording) on Monday, Dec. 8 8-10am (Finals week).
 
-Write-up a README executive summary by end-of-day Friday, May 3.
+Write-up a README executive summary by end-of-day Friday, Dec. 12.
 
 ```{r setup, echo=FALSE, fig.align="left", out.width="40%"}
 knitr::include_graphics("img/data-science-cycle.001.png")
@@ -38,7 +38,7 @@ Your final project will incorporate all these elements along with text narrative
 
 ## Undergraduates
 
-You will choose (as a group) a dataset to work with based on your interests.
+You will be assigned or choose (as a group) a dataset to work with based on your interests.
 
 **GOAL:**
 
@@ -55,12 +55,6 @@ DO NOT DO:
 
 -   An exhaustive data analysis. That is, do not calculate every statistics or present every visualization possible.
 -   Do not visualize everything all at once. This helps YOU, but it doesn't necessarily help the audience.
-
-## Graduates
-
-Essentially the same as for undergraduates, but you can work independently (or collaborate!) on your own datasets.
-
-You will be graded the same as the undergraduates even though your work may exceed the expectations for this class.
 
 ## Data
 
