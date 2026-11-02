@@ -16,11 +16,11 @@ and apply your data science workflow.
 
 **Kick-off (today, Monday Nov 2):** As a group, identify a dataset, download the key data files, and place them in the `/data` folder of your project repo.
 
-**Proposal:** Complete and submit during lab on Wednesday, Nov 4 (or by Friday 11/21 at the latest).
+**Proposal:** Complete and submit by midnight on Wednesday, Nov 11.
 
-Give 5 min presentation (or share pre-recording) on Monday, Dec. 8 8-10am (Finals week).
+**Presentation:** Give 5 min presentation (or share pre-recording) on Wednesday, Dec. 2, 3-5pm in SELE 1280.
 
-Write-up a README executive summary by end-of-day Friday, Dec. 12.
+**Executive Summary** Write-up a README executive summary by end-of-day Wednesday, Dec. 9.
 
 ```{r setup, echo=FALSE, fig.align="left", out.width="40%"}
 knitr::include_graphics("img/data-science-cycle.001.png")
@@ -33,8 +33,6 @@ knitr::include_graphics("img/data-science-cycle.001.png")
 The final project will be your chance to apply the data science skills you've learned so far to a dataset of your choosing.
 
 If we relate this to the **data science workflow** you can see that means you'll be importing, tidying and transforming (wrangling), visualizing, and communicating your data.
-
-The last two units of the class will also cover how to **model** your data, including how to test hypotheses.
 
 Your final project will incorporate all these elements along with text narrative explaining your code and thought process in an **.Rmd** file, just like you've been doing all semester.
 
