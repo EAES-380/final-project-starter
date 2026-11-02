@@ -14,7 +14,9 @@ Pick a dataset, any dataset...
 ...
 and apply your data science workflow.
 
-Submit a proposal on **Friday 11/21**.
+**Kick-off (today, Monday Nov 2):** As a group, identify a dataset, download the key data files, and place them in the `/data` folder of your project repo.
+
+**Proposal:** Complete and submit during lab on Wednesday, Nov 4 (or by Friday 11/21 at the latest).
 
 Give 5 min presentation (or share pre-recording) on Monday, Dec. 8 8-10am (Finals week).
 
@@ -72,15 +74,26 @@ If you are having trouble ask for help before it is too late.
 
 **Note on reusing datasets from class:** Do not reuse datasets used in examples, homework assignments, or labs in the class.
 
-Use this link to review some dataset you could use, or feel free to explore other sources:
+**Curated dataset options (3 per subject area) from the EDI portal:**  
+[EAES 380 Final Project Dataset Options](https://portal.edirepository.org/)  
+(Full short READMEs with direct metadata links, coverage, and suggested analyses are available in the course materials / will be shared. Subject areas: Biogeochemistry & Geobiology; Meteorology & Climate; Hydrology & Ecosystems; Earth & Planetary Geophysics.)
 
-[EAES 420 Final Project Datasets](https://docs.google.com/document/d/1gmjKcij2RO5s3MDmHSQtYWJqzjW4QGIZPQBRHj9PqMk/edit#)
+You may also explore other sources freely.
+
+## Kick-off day (today)
+
+1. Meet with your assigned group.
+2. Review the curated options (or other sources) and choose a dataset that fits the size requirements above and your interests.
+3. Download the main data table(s) (CSV preferred) from the EDI metadata page.
+4. Create a `/data` folder in your project repo and move the data file(s) there.
+5. Start a short data dictionary (variable names, types, units, what each row represents) in a README inside `/data`.
+6. During Wednesday lab, finish the proposal (see below) using the starter `proposal.Rmd`.
 
 ## Deliverables
 
--   Proposal - **Due Monday April 15 at midnight**
--   Presentation - **Tues, April 30 1030am - 1230pm**
--   Executive summary - **Due end of finals week at midnight (Friday May 3)**
+-   Proposal - **Complete during Wednesday Nov 4 lab; final due Friday 11/21 at midnight**
+-   Presentation - **Monday, Dec. 8, 8-10am (Finals week)**
+-   Executive summary - **Due end of day Friday, Dec. 12**
 
 ### Proposal
 
