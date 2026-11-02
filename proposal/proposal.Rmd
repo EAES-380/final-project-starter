@@ -11,6 +11,18 @@ library(broom)
 
 ## 1. Data
 
+### 1a. Description of dataset
+<!-- Where is the dataset coming from? What interests you about it? Why did you choose it? 
+     Dimensions, variable names/types. What is each row/observation? Does it seem tidy? -->
+
+### 1b. Data and data dictionary
+<!-- Place data in /data folder. Include glimpse() or skim() output and a short data dictionary. -->
+
 ## 2. Exploratory Visualization
 
+<!-- Preliminary summary statistics and 1-2 plots with brief explanation. -->
+
 ## 3. Possible question and method
+
+<!-- What question could you answer? What method(s) do you plan to use? -->
+
